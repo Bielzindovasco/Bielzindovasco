@@ -18,6 +18,8 @@
 
 - TCC pelo IFPB (Construção de um Banco de Dados para o aplicativo DOMESTICO+) (https://ifpb-suap.s3.sa-east-1.amazonaws.com/media/edu/projeto_final/22e4ce6850014d8f8de23b5084fa472a.pdf?AWSAccessKeyId=AKIATK7PA3ZCSD745UZB&Signature=g8Er3WAYKo5XxjuatSwCqLUUdOs%3D&Expires=1758809251)
 
+- Trabalho Escolar feito em equipe no IFPB (Criação da Página de Jogos do Site do IFPB - Campus Cajazeiras)
+
 ## Minhas Linguagens de Progamação
 
 <div style="display: flex">
