@@ -1,12 +1,13 @@
 ## Bem vindo ao meu perfil 
 - Meu nome é Gabriel Pereira Bezerra
 
-## 🎯 Objetivos
+## 🎯 Objetivos e Qualidades
 
 - Buscar minha primeira experiência profissional na área de tecnologia, colocando em prática os conhecimentos adquiridos.
 - Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias.
 - Pretendo me especializar cada vez mais em desenvolvimento web e programação.
 - Tenho conhecimentos em Python, HTML, CSS e JavaScript, e estou em constante evolução.
+- Gosto e Prefiro trabalhar em Equipe, sempre buscando o melhor para a mesma.
 
 ## Profissionalizações
 
