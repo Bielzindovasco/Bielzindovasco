@@ -24,7 +24,7 @@
 
 <div style="display: flex">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bielzindovasco&layout=compact&langs_count=8&theme=algolia"/&gt;>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bielzindovasco&show_icons=true&theme=dark&show_icons=true&theme=dark)&layout=compact&langs_count=8&theme=algolia"/&gt;>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bielzindovasco&show_icons=true&theme=dark&layout=compact&langs_count=8&theme=algolia"/&gt;>
 </div>
 
 # Experiência
